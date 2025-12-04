@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0228-summary-ranges) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
