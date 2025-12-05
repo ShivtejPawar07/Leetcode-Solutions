@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0228-summary-ranges](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
