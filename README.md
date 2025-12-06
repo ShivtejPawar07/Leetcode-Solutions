@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
