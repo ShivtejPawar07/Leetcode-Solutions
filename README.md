@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
