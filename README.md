@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3583-count-special-triplets) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3583-count-special-triplets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3583-count-special-triplets) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
