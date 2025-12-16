@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3583-count-special-triplets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Geometry
 |  |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0274-h-index) |
+## Tree
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Depth-First Search
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 <!---LeetCode Topics End-->
