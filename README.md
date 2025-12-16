@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0139-word-break) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
