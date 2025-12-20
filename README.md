@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
