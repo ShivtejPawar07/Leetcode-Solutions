@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0840-magic-squares-in-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0322-coin-change) |
