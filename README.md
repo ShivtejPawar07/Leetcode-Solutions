@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
