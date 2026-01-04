@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0840-magic-squares-in-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
