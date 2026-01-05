@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Two Pointers
 |  |
