@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3531-count-covered-buildings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3583-count-special-triplets) |
