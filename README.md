@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1251-average-selling-price) |
+| [1661-average-time-of-process-per-machine](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
