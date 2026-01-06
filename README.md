@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1768-merge-strings-alternately](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
