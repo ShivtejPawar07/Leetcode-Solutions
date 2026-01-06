@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0840-magic-squares-in-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0840-magic-squares-in-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1390-four-divisors) |
