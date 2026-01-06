@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0840-magic-squares-in-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
