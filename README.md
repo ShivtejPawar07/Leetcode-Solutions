@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
