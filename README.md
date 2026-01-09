@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1390-four-divisors](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
