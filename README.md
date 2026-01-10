@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1390-four-divisors](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
