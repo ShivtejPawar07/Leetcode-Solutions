@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
