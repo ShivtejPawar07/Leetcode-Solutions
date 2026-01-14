@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Segment Tree
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
