@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3454-separate-squares-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3531-count-covered-buildings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3454-separate-squares-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -388,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
