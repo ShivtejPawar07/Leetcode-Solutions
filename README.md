@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Recursion
 |  |
 | ------- |
