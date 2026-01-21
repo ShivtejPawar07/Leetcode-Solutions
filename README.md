@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Counting Sort
 |  |
 | ------- |
