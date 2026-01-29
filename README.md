@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
@@ -428,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
