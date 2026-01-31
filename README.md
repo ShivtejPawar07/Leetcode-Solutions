@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3454-separate-squares-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
