@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1975-maximum-matrix-sum](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Database
