@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2211-count-collisions-on-a-road](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
