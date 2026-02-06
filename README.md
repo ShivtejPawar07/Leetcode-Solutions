@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
 |  |
