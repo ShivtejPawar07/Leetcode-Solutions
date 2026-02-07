@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
