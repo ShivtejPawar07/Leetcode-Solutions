@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
