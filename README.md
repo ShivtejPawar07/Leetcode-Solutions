@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
