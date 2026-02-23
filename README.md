@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0868-binary-gap) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Counting Sort
@@ -554,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
