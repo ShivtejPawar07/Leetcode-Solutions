@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
