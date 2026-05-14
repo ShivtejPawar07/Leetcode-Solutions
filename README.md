@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0841-keys-and-rooms](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0841-keys-and-rooms](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShivtejPawar07/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
